@@ -1,0 +1,26 @@
+[
+    {
+        "model-name": "Ticket",
+        "resource-file": "tickets.json"
+    },
+    {
+        "model-name": "FlowMessages",
+        "resource-file": "flow_messages.json"
+    },
+    {
+        "model-name": "Messages",
+        "resource-file": "messages.json"
+    },
+    {
+        "model-name": "User",
+        "resource-file": "users.json"
+    },
+    {
+        "model-name": "Endpoint",
+        "resource-file": "endpoints.json"
+    },
+    {
+        "model-name": "EndpointParameter",
+        "resource-file": "endpoint_parameters.json"
+    }
+]
